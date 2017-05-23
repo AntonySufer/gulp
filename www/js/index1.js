@@ -1,0 +1,11 @@
+var a =1 ;
+var aa=222;
+var hah =1111;
+var aa =111111;
+var hehe =1;
+var hah =3333;
+var hah =3333333;
+var aa1 =6661;
+var aa =222;
+var aaaaa= 54543534;
+var aadddd="dfdf;";
