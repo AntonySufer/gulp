@@ -22,6 +22,9 @@ gulp压缩css js img
 如项目不能运行可能npm包丢失，运行
 
   npm  install
+  
+  
+  ![img](https://github.com/AntonySufer/gulp/blob/master/www/img/lep.png)
 
 
 
