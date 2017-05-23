@@ -1,21 +1,21 @@
- °²×°del°ü
+ å®‰è£…delåŒ…
    npm install --save-dev gulp del
 
- È«¾Ö°²×°   gulp
+ å…¨å±€å®‰è£…   gulp
   npm install gulp --save-g
 
-ÈôÈ«¾Ö°²×°²»ÄÜÔËĞĞ£¬ÏîÄ¿ÔÙ°²×°Ò»±é 
+è‹¥å…¨å±€å®‰è£…ä¸èƒ½è¿è¡Œï¼Œé¡¹ç›®é‡æ–°å®‰è£…ä¸€é 
   npm install gulp --save-dev
 
-Ñ¹ËõÖ´ĞĞ  ¼û package.json °ü
+å‹ç¼©æ‰§è¡Œ  è§ package.json åŒ…
 
-   npm run clean  //É¾³ıËùÓĞdistÏÂÎÄ¼ş £¬ÇåÀí
+   npm run clean  //åˆ é™¤æ‰€æœ‰distä¸‹æ–‡ä»¶ ï¼Œæ¸…ç†
 
-   npm run gulp   //Ö´ĞĞdefaultÈÎÎñ£¨°üº¬js/css/img£©
+ Â  npm run gulp Â  //æ‰§è¡Œdefaultå‹ç¼©ä»»åŠ¡ï¼ˆåŒ…å«js/css/imgï¼‰
 
 
 
-ÈçÏîÄ¿²»ÄÜÔËĞĞ¿ÉÄÜnpm°ü¶ªÊ§£¬ÔËĞĞ
+å¦‚é¡¹ç›®ä¸èƒ½è¿è¡Œå¯èƒ½npmåŒ…ä¸¢å¤±ï¼Œè¿è¡Œ
 
   npm  install
 
